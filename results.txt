@@ -1,0 +1,20 @@
+in main
+argument: ./server
+argument: -n
+argument: 1000000
+argument: -s
+argument: 4
+making threads and contexts
+calling functions
+initmem
+initHashtable
+threadFunc
+threadFunc for loop
+threadFunc
+threadFunc for loop
+ring get
+server request type = 1 k = 14
+threadFunc
+threadFunc for loop
+ring get
+server request type = 1 k = 22
